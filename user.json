@@ -1,0 +1,5 @@
+{
+    "User-1":{"name":"Teame", "age":"23", "Gender":"Female"},
+    "User-2":{"name":"Maroof", "age":"21", "Gender":"Male"},
+    "User-3":{"name":"David", "age":"27", "Gender":"Male"}
+}
